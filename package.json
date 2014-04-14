@@ -1,0 +1,9 @@
+{
+  "name": "exampleB", 
+  "version": "1.0.0", 
+  "main": "./exampleC.js",
+  "dependencies": {
+    "exampleD" : "git+https://github.com/jkingsbery/exampleD.git#1.0.1"
+  }
+
+}
